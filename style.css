@@ -3,20 +3,20 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
 }
 
 p {
-    text-align: center;
+    text-align: justify;
     color:rgb(250, 17, 153);
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .paragrafo {
-    text-align: center;
+    text-align: justify;
     color:rgb(177, 0, 165);
-    font-size: 20px;
+    font-size: 30px;
 }
 
 img{
