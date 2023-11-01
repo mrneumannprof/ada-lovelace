@@ -23,6 +23,6 @@ img{
     width: 30%;
     margin: 0 auto;
     padding: 5px 0;
-    text-align: center;
+    justify-content: center;
 }
 
