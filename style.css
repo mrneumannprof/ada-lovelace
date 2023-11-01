@@ -21,9 +21,8 @@ p {
 }
 
 img{
-    width: 30%;
-    margin: 0 auto;
-    padding: 5px 0;
+    height: 300px;
     justify-content: center;
+    margin: 0px;
 }
 
